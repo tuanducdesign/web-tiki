@@ -2,7 +2,7 @@ version: "3.4"
 
 services:
   app:
-    image: nginx:1.17-alpine
+    image: nginx:1.23-alpine
     volumes:
       - ./build:/usr/share/nginx/html
     ports:
