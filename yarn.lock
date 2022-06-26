@@ -1271,10 +1271,10 @@
     "@telerik/kendo-draggable" "2.0.0"
     prop-types "^15.6.0"
 
-"@progress/kendo-react-intl@^3.11.0":
-  version "3.11.0"
-  resolved "https://registry.npmjs.org/@progress/kendo-react-intl/-/kendo-react-intl-3.11.0.tgz"
-  integrity sha512-NQSloAE+LXmJioWO1oswE+/+fcoU3Vm0A0R+osu7kQ1bKRQVzEYpGbziM7isjU7alEUKl/kSuRM2GYWxnylUmg==
+"@progress/kendo-react-intl@3.18.0":
+  version "3.18.0"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-react-intl/-/kendo-react-intl-3.18.0.tgz#0e025933877426d1fb848ab755c7efb4e66f60d6"
+  integrity sha512-0BtwBW492D0eK/RQKjimq8/rDCvF6izSKjDv8RWbdqb2FdT5UBMWOyiDKeQtsf/B18J+xFDYDHZP0paEB+4p0g==
   dependencies:
     "@telerik/kendo-intl" "^2.1.0"
     prop-types "^15.6.0"
