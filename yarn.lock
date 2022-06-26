@@ -1263,12 +1263,12 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@progress/kendo-react-common@3.11.0":
-  version "3.11.0"
-  resolved "https://registry.npmjs.org/@progress/kendo-react-common/-/kendo-react-common-3.11.0.tgz"
-  integrity sha512-QCLQh8w1qaTqzGAxey8Sn94xafHfNguccsuFzVWsqteuJd71HfLjwToMuuRSQFrMTs3ksqndUszvjrLB0gp/PA==
+"@progress/kendo-react-common@3.18.0":
+  version "3.18.0"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-react-common/-/kendo-react-common-3.18.0.tgz#40ea6f29b77910e2a3fa4b5f8eaebe9b295c74a8"
+  integrity sha512-pV79EmuA6jEYc/Hw5GKBViADzu/h4VzIhujaWvV7UvgGslMW7xwAyU4ZAhA+4ETjLL1mBvUx1vgjq1AvsTUpSA==
   dependencies:
-    "@telerik/kendo-draggable" "2.0.0"
+    "@telerik/kendo-draggable" "^2.1.0"
     prop-types "^15.6.0"
 
 "@progress/kendo-react-intl@^3.11.0":
@@ -1279,12 +1279,12 @@
     "@telerik/kendo-intl" "^2.1.0"
     prop-types "^15.6.0"
 
-"@progress/kendo-react-upload@^3.11.0":
-  version "3.11.0"
-  resolved "https://registry.npmjs.org/@progress/kendo-react-upload/-/kendo-react-upload-3.11.0.tgz"
-  integrity sha512-awVYMhtQ10u2VygM3b4hj6DnP3EslttEJ745Q1wQxhwQioo71uHcQaOzUQXHOnWs2MWaGHdPTO1ithXSyCEIJA==
+"@progress/kendo-react-upload@3.18.0":
+  version "3.18.0"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-react-upload/-/kendo-react-upload-3.18.0.tgz#68bb7a5799b6a800667f283f48e04470016535dd"
+  integrity sha512-vcanWjVm6S+rvgru1XfufredRBiCeb+pn9/BX0joi+B1HZqK4VS/QJHElCSTOWMHvYPk19t5tpYj5sh8C3g+jA==
   dependencies:
-    "@progress/kendo-react-common" "3.11.0"
+    "@progress/kendo-react-common" "3.18.0"
     axios "0.18.1"
     prop-types "^15.6.0"
 
@@ -1401,10 +1401,10 @@
     "@svgr/plugin-svgo" "^4.3.1"
     loader-utils "^1.2.3"
 
-"@telerik/kendo-draggable@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/@telerik/kendo-draggable/-/kendo-draggable-2.0.0.tgz"
-  integrity sha512-6fZcwVZQNh9ovWbueo2VFgpFxktWdxaABe/gVZ+dJy4h+ngkoSr0HSmfUJY5QupMQ1RvLA9hr3Eficbqx+gU0Q==
+"@telerik/kendo-draggable@^2.1.0":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@telerik/kendo-draggable/-/kendo-draggable-2.2.1.tgz#27d86fd5b3273676b744bd82dbcebfffd911ad5c"
+  integrity sha512-qmuRJnjByOIjSKi0BKYK7fJ/+ITgL0aumc4IRIEwiYAQgDJWumuSpAOp2p8ctIWzP0JfEUmITs6ziJaoyKIYwQ==
 
 "@telerik/kendo-intl@^2.1.0":
   version "2.1.1"
