@@ -1288,10 +1288,10 @@
     axios "0.18.1"
     prop-types "^15.6.0"
 
-"@progress/kendo-theme-default@^4.14.0":
-  version "4.14.0"
-  resolved "https://registry.npmjs.org/@progress/kendo-theme-default/-/kendo-theme-default-4.14.0.tgz"
-  integrity sha512-yzwcYkRfP+1TrHyaa2HT+cmOoLkWnPVKRJAf//ZqNNqkB4n6gjnAJcvC8kFxhWH2VJ3pFuc7y3oQC6ywL8LgnA==
+"@progress/kendo-theme-default@5.5.0":
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-theme-default/-/kendo-theme-default-5.5.0.tgz#9b1ecb0068603679680e60ff765e63cc308c7dc6"
+  integrity sha512-1KLoPaCk8o8oAGKE8M1Jt36hPVMxQOSkJpCMYcQoaLtQv8ZvfFBTa1cKr78cdeiigOWgOoCNqgPHAjMf4plprA==
 
 "@sheerun/mutationobserver-shim@^0.3.2":
   version "0.3.2"
