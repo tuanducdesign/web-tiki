@@ -35,7 +35,7 @@
     "react-loading": "^2.0.3",
     "react-material-ui-carousel": "^1.1.1",
     "react-material-ui-form-validator": "^2.0.10",
-    "react-moment": "^0.9.7",
+    "react-moment": "1.1.2",
     "react-redux": "^7.2.0",
     "react-responsive-carousel": "^3.1.51",
     "react-ripples": "^2.2.1",
