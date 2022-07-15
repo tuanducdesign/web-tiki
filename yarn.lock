@@ -914,9 +914,9 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@brainhubeu/react-carousel@^1.11.2-bar-3":
+"@brainhubeu/react-carousel@1.11.2-bar-3":
   version "1.11.2-bar-3"
-  resolved "https://registry.npmjs.org/@brainhubeu/react-carousel/-/react-carousel-1.11.2-bar-3.tgz"
+  resolved "https://registry.yarnpkg.com/@brainhubeu/react-carousel/-/react-carousel-1.11.2-bar-3.tgz#433198c7acbacc67f2732806183333bd6e884573"
   integrity sha512-gqEsEr18dLfP4EXRXqAogYuK18yVDn6l2al03p/c/1Dw8ukPuXcHV+wtsYh/JGRjzRuw5/SCgsd9neyCmXX8WQ==
 
 "@cnakazawa/watch@^1.0.3":
@@ -942,9 +942,9 @@
   resolved "https://registry.npmjs.org/@date-io/core/-/core-1.3.13.tgz"
   integrity sha512-AlEKV7TxjeK+jxWVKcCFrfYAk8spX9aCyiToFIiLPtfQbsjmRGLIhb5VZgptQcJdHtLXo7+m0DuurwFgUToQuA==
 
-"@date-io/date-fns@^1.3.13":
+"@date-io/date-fns@1.3.13":
   version "1.3.13"
-  resolved "https://registry.npmjs.org/@date-io/date-fns/-/date-fns-1.3.13.tgz"
+  resolved "https://registry.yarnpkg.com/@date-io/date-fns/-/date-fns-1.3.13.tgz#7798844041640ab393f7e21a7769a65d672f4735"
   integrity sha512-yXxGzcRUPcogiMj58wVgFjc9qUYrCnnU9eLcyNbsQCmae4jPuZCDoIBR21j8ZURsM7GRtU62VOw5yNd4dDHunA==
   dependencies:
     "@date-io/core" "^1.3.13"
@@ -1139,9 +1139,9 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@material-ui/core@^4.5.1", "@material-ui/core@^4.9.2":
+"@material-ui/core@4.9.2", "@material-ui/core@^4.5.1":
   version "4.9.2"
-  resolved "https://registry.npmjs.org/@material-ui/core/-/core-4.9.2.tgz"
+  resolved "https://registry.yarnpkg.com/@material-ui/core/-/core-4.9.2.tgz#23c9a697af15d8daf56ffad1955b24209ef48106"
   integrity sha512-fSf/yBuE5GR7dA+FiQAAGY7HrCN/8RaYApi9tx3IKMiJIJkRCHk+E2lktgJZ+QRsaqCACLo2lwhU2CW5aeO0UQ==
   dependencies:
     "@babel/runtime" "^7.4.4"
@@ -1159,16 +1159,16 @@
     react-is "^16.8.0"
     react-transition-group "^4.3.0"
 
-"@material-ui/icons@^4.5.1", "@material-ui/icons@^4.9.1":
+"@material-ui/icons@4.9.1", "@material-ui/icons@^4.5.1":
   version "4.9.1"
-  resolved "https://registry.npmjs.org/@material-ui/icons/-/icons-4.9.1.tgz"
+  resolved "https://registry.yarnpkg.com/@material-ui/icons/-/icons-4.9.1.tgz#fdeadf8cb3d89208945b33dbc50c7c616d0bd665"
   integrity sha512-GBitL3oBWO0hzBhvA9KxqcowRUsA0qzwKkURyC8nppnC3fw54KPKZ+d4V1Eeg/UnDRSzDaI9nGCdel/eh9AQMg==
   dependencies:
     "@babel/runtime" "^7.4.4"
 
-"@material-ui/lab@^4.0.0-alpha.43":
+"@material-ui/lab@4.0.0-alpha.43":
   version "4.0.0-alpha.43"
-  resolved "https://registry.npmjs.org/@material-ui/lab/-/lab-4.0.0-alpha.43.tgz"
+  resolved "https://registry.yarnpkg.com/@material-ui/lab/-/lab-4.0.0-alpha.43.tgz#4bc673924cf1922750d70adcbb71414d3c18ff23"
   integrity sha512-UxsQggLpwr5HEZU+YRZkRVtpt5Cp27VwfYZz1InyGNWrtx9WovAYxEyR1xDvp/cmKhnSPCecVnqmb3dtLTpDqQ==
   dependencies:
     "@babel/runtime" "^7.4.4"
@@ -1177,9 +1177,9 @@
     prop-types "^15.7.2"
     react-is "^16.8.0"
 
-"@material-ui/pickers@^3.2.10":
+"@material-ui/pickers@3.2.10":
   version "3.2.10"
-  resolved "https://registry.npmjs.org/@material-ui/pickers/-/pickers-3.2.10.tgz"
+  resolved "https://registry.yarnpkg.com/@material-ui/pickers/-/pickers-3.2.10.tgz#19df024895876eb0ec7cd239bbaea595f703f0ae"
   integrity sha512-B8G6Obn5S3RCl7hwahkQj9sKUapwXWFjiaz/Bsw1fhYFdNMnDUolRiWQSoKPb1/oKe37Dtfszoywi1Ynbo3y8w==
   dependencies:
     "@babel/runtime" "^7.6.0"
@@ -1189,7 +1189,7 @@
     react-transition-group "^4.0.0"
     rifm "^0.7.0"
 
-"@material-ui/styles@^4.9.0":
+"@material-ui/styles@4.9.0", "@material-ui/styles@^4.9.0":
   version "4.9.0"
   resolved "https://registry.npmjs.org/@material-ui/styles/-/styles-4.9.0.tgz"
   integrity sha512-nJHum4RqYBPWsjL/9JET8Z02FZ9gSizlg/7LWVFpIthNzpK6OQ5OSRR4T4x9/p+wK3t1qNn3b1uI4XpnZaPxOA==
@@ -1271,26 +1271,26 @@
     "@telerik/kendo-draggable" "2.0.0"
     prop-types "^15.6.0"
 
-"@progress/kendo-react-intl@^3.11.0":
+"@progress/kendo-react-intl@3.11.0":
   version "3.11.0"
-  resolved "https://registry.npmjs.org/@progress/kendo-react-intl/-/kendo-react-intl-3.11.0.tgz"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-react-intl/-/kendo-react-intl-3.11.0.tgz#6605f2efc0240196f9324fedd70fe031b1dff832"
   integrity sha512-NQSloAE+LXmJioWO1oswE+/+fcoU3Vm0A0R+osu7kQ1bKRQVzEYpGbziM7isjU7alEUKl/kSuRM2GYWxnylUmg==
   dependencies:
     "@telerik/kendo-intl" "^2.1.0"
     prop-types "^15.6.0"
 
-"@progress/kendo-react-upload@^3.11.0":
+"@progress/kendo-react-upload@3.11.0":
   version "3.11.0"
-  resolved "https://registry.npmjs.org/@progress/kendo-react-upload/-/kendo-react-upload-3.11.0.tgz"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-react-upload/-/kendo-react-upload-3.11.0.tgz#368bfab1eac20869954da36f3e596f82df129602"
   integrity sha512-awVYMhtQ10u2VygM3b4hj6DnP3EslttEJ745Q1wQxhwQioo71uHcQaOzUQXHOnWs2MWaGHdPTO1ithXSyCEIJA==
   dependencies:
     "@progress/kendo-react-common" "3.11.0"
     axios "0.18.1"
     prop-types "^15.6.0"
 
-"@progress/kendo-theme-default@^4.14.0":
+"@progress/kendo-theme-default@4.14.0":
   version "4.14.0"
-  resolved "https://registry.npmjs.org/@progress/kendo-theme-default/-/kendo-theme-default-4.14.0.tgz"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-theme-default/-/kendo-theme-default-4.14.0.tgz#83d3eebb436d0d851d34491c0ff95c0844d063b4"
   integrity sha512-yzwcYkRfP+1TrHyaa2HT+cmOoLkWnPVKRJAf//ZqNNqkB4n6gjnAJcvC8kFxhWH2VJ3pFuc7y3oQC6ywL8LgnA==
 
 "@sheerun/mutationobserver-shim@^0.3.2":
@@ -1423,9 +1423,9 @@
     pretty-format "^24.9.0"
     wait-for-expect "^3.0.0"
 
-"@testing-library/jest-dom@^4.2.4":
+"@testing-library/jest-dom@4.2.4":
   version "4.2.4"
-  resolved "https://registry.npmjs.org/@testing-library/jest-dom/-/jest-dom-4.2.4.tgz"
+  resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-4.2.4.tgz#00dfa0cbdd837d9a3c2a7f3f0a248ea6e7b89742"
   integrity sha512-j31Bn0rQo12fhCWOUWy9fl7wtqkp7In/YP2p5ZFyRuiiB9Qs3g+hS4gAmDWONbAHcRmVooNJ5eOHQDCOmUFXHg==
   dependencies:
     "@babel/runtime" "^7.5.1"
@@ -1438,18 +1438,18 @@
     pretty-format "^24.0.0"
     redent "^3.0.0"
 
-"@testing-library/react@^9.4.0":
+"@testing-library/react@9.4.0":
   version "9.4.0"
-  resolved "https://registry.npmjs.org/@testing-library/react/-/react-9.4.0.tgz"
+  resolved "https://registry.yarnpkg.com/@testing-library/react/-/react-9.4.0.tgz#b021ac8cb987c8dc54c6841875f745bf9b2e88e5"
   integrity sha512-XdhDWkI4GktUPsz0AYyeQ8M9qS/JFie06kcSnUVcpgOwFjAu9vhwR83qBl+lw9yZWkbECjL8Hd+n5hH6C0oWqg==
   dependencies:
     "@babel/runtime" "^7.7.6"
     "@testing-library/dom" "^6.11.0"
     "@types/testing-library__react" "^9.1.2"
 
-"@testing-library/user-event@^7.2.1":
+"@testing-library/user-event@7.2.1":
   version "7.2.1"
-  resolved "https://registry.npmjs.org/@testing-library/user-event/-/user-event-7.2.1.tgz"
+  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-7.2.1.tgz#2ad4e844175a3738cb9e7064be5ea070b8863a1c"
   integrity sha512-oZ0Ib5I4Z2pUEcoo95cT1cr6slco9WY7yiPpG+RGNkj8YcYgJnM7pXmYmorNOReh8MIGcKSqXyeGjxnr8YiZbA==
 
 "@tootallnate/once@1":
@@ -2018,9 +2018,9 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
-antd@^4.0.0:
+antd@4.0.2:
   version "4.0.2"
-  resolved "https://registry.npmjs.org/antd/-/antd-4.0.2.tgz"
+  resolved "https://registry.yarnpkg.com/antd/-/antd-4.0.2.tgz#84e7356322ef3620a24cee56a281d910178cbd4e"
   integrity sha512-0IBy/a4v1zCUqn8w9DRs7BHO8HsjLKt6QKt5zM/h2uUfIe3hALj5dG7M1mWrG1uu6JR2RxUfDyaCYZZGaijv/g==
   dependencies:
     "@ant-design/icons" "^4.0.0"
@@ -2335,9 +2335,9 @@ axios@0.18.1:
     follow-redirects "1.5.10"
     is-buffer "^2.0.2"
 
-axios@^0.19.2:
+axios@0.19.2:
   version "0.19.2"
-  resolved "https://registry.npmjs.org/axios/-/axios-0.19.2.tgz"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.19.2.tgz#3ea36c5d8818d0d5f8a8a97a6d36b86cdc00cb27"
   integrity sha512-fjgm5MvRHLhx+osE2xoekY70AhARk3a6hkN+3Io1jc00jtquGvxYlKlsFUhmUET0V5te6CcZI7lcv2Ym61mjHA==
   dependencies:
     follow-redirects "1.5.10"
@@ -2601,9 +2601,9 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   resolved "https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
-bootstrap@^4.4.1:
+bootstrap@4.4.1:
   version "4.4.1"
-  resolved "https://registry.npmjs.org/bootstrap/-/bootstrap-4.4.1.tgz"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.4.1.tgz#8582960eea0c5cd2bede84d8b0baf3789c3e8b01"
   integrity sha512-tbx5cHubwE6e2ZG7nqM3g/FZ5PQEDMWmMGNrCUBVRPHXTJaH7CBDdsLeu3eCh3B1tzAxTnAbtmrzvWEvT2NNEA==
 
 brace-expansion@^1.1.7:
@@ -3007,9 +3007,9 @@ chart.js@^2.7.2:
     chartjs-color "^2.1.0"
     moment "^2.10.2"
 
-chartist@^0.11.4:
+chartist@0.11.4:
   version "0.11.4"
-  resolved "https://registry.npmjs.org/chartist/-/chartist-0.11.4.tgz"
+  resolved "https://registry.yarnpkg.com/chartist/-/chartist-0.11.4.tgz#e96e1c573d8b67478920a3a6ae52359d9fc8d8b7"
   integrity sha512-H4AimxaUD738/u9Mq8t27J4lh6STsLi4BQHt65nOtpLk3xyrBPaLiLMrHw7/WV9CmsjGA02WihjuL5qpSagLYw==
 
 chartjs-color-string@^0.6.0:
@@ -3101,7 +3101,7 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
-classnames@2.x, classnames@>=2.0.0, classnames@^2.2.0, classnames@^2.2.1, classnames@^2.2.3, classnames@^2.2.5, classnames@^2.2.6, classnames@~2.2.6:
+classnames@2.2.6, classnames@2.x, classnames@>=2.0.0, classnames@^2.2.0, classnames@^2.2.1, classnames@^2.2.3, classnames@^2.2.5, classnames@^2.2.6, classnames@~2.2.6:
   version "2.2.6"
   resolved "https://registry.npmjs.org/classnames/-/classnames-2.2.6.tgz"
   integrity sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
@@ -3860,15 +3860,15 @@ data-urls@^1.0.0, data-urls@^1.1.0:
     whatwg-mimetype "^2.2.0"
     whatwg-url "^7.0.0"
 
+date-fns@2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.9.0.tgz#d0b175a5c37ed5f17b97e2272bbc1fa5aec677d2"
+  integrity sha512-khbFLu/MlzLjEzy9Gh8oY1hNt/Dvxw3J6Rbc28cVoYWQaC1S3YI4xwkF9ZWcjDLscbZlY9hISMr66RFzZagLsA==
+
 date-fns@^1.30.1:
   version "1.30.1"
   resolved "https://registry.npmjs.org/date-fns/-/date-fns-1.30.1.tgz"
   integrity sha512-hBSVCvSmWC+QypYObzwGOd9wqdDpOt+0wl0KbU+R+uuZBS1jN8VsD1ss3irQDknRj5NvxiTF6oj/nDRnN/UQNw==
-
-date-fns@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.npmjs.org/date-fns/-/date-fns-2.9.0.tgz"
-  integrity sha512-khbFLu/MlzLjEzy9Gh8oY1hNt/Dvxw3J6Rbc28cVoYWQaC1S3YI4xwkF9ZWcjDLscbZlY9hISMr66RFzZagLsA==
 
 debug@2.6.9, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.9:
   version "2.6.9"
@@ -4857,9 +4857,9 @@ fbjs@^0.8.1:
     setimmediate "^1.0.5"
     ua-parser-js "^0.7.18"
 
-fg-loadcss@^2.1.0:
+fg-loadcss@2.1.0:
   version "2.1.0"
-  resolved "https://registry.npmjs.org/fg-loadcss/-/fg-loadcss-2.1.0.tgz"
+  resolved "https://registry.yarnpkg.com/fg-loadcss/-/fg-loadcss-2.1.0.tgz#b3cbdf2ab5ee82a13ddb26340f10e3ac43fe2233"
   integrity sha512-HpvR2uRoKvrYAEwimw+k4Fr2NVHYPfld5Lc/f9uy3mKeUTXhS5urL24XA2rqyq5b2i410EXCLir4Uhsb8J1QaQ==
 
 figgy-pudding@^3.5.1:
@@ -7012,10 +7012,10 @@ jsx-ast-utils@^2.2.1, jsx-ast-utils@^2.2.3:
     array-includes "^3.0.3"
     object.assign "^4.1.0"
 
-jwt-decode@^2.2.0:
+jwt-decode@2.2.0:
   version "2.2.0"
-  resolved "https://registry.npmjs.org/jwt-decode/-/jwt-decode-2.2.0.tgz"
-  integrity sha1-fYa9VmefWM5qhHBKZX3TkruoGnk=
+  resolved "https://registry.yarnpkg.com/jwt-decode/-/jwt-decode-2.2.0.tgz#7d86bd56679f58ce6a84704a657dd392bba81a79"
+  integrity sha512-86GgN2vzfUu7m9Wcj63iUkuDzFNYFVmjeDm2GzWpUk+opB0pEpMsw6ePCMrhYkumz2C1ihqtZzOMAg7FiXcNoQ==
 
 killable@^1.0.1:
   version "1.0.1"
@@ -7953,6 +7953,27 @@ node-releases@^1.1.47:
   dependencies:
     semver "^6.3.0"
 
+node-sass@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-7.0.1.tgz#ad4f6bc663de8acc0a9360db39165a1e2620aa72"
+  integrity sha512-uMy+Xt29NlqKCFdFRZyXKOTqGt+QaKHexv9STj2WeLottnlqZEEWx6Bj0MXNthmFRRdM/YwyNo/8Tr46TOM0jQ==
+  dependencies:
+    async-foreach "^0.1.3"
+    chalk "^4.1.2"
+    cross-spawn "^7.0.3"
+    gaze "^1.0.0"
+    get-stdin "^4.0.1"
+    glob "^7.0.3"
+    lodash "^4.17.15"
+    meow "^9.0.0"
+    nan "^2.13.2"
+    node-gyp "^8.4.1"
+    npmlog "^5.0.0"
+    request "^2.88.0"
+    sass-graph "4.0.0"
+    stdout-stream "^1.4.0"
+    "true-case-path" "^1.0.2"
+
 node-sass@^4.12.0:
   version "4.14.1"
   resolved "https://registry.npmjs.org/node-sass/-/node-sass-4.14.1.tgz"
@@ -7973,27 +7994,6 @@ node-sass@^4.12.0:
     npmlog "^4.0.0"
     request "^2.88.0"
     sass-graph "2.2.5"
-    stdout-stream "^1.4.0"
-    "true-case-path" "^1.0.2"
-
-node-sass@^7.0.0:
-  version "7.0.1"
-  resolved "https://registry.npmjs.org/node-sass/-/node-sass-7.0.1.tgz"
-  integrity sha512-uMy+Xt29NlqKCFdFRZyXKOTqGt+QaKHexv9STj2WeLottnlqZEEWx6Bj0MXNthmFRRdM/YwyNo/8Tr46TOM0jQ==
-  dependencies:
-    async-foreach "^0.1.3"
-    chalk "^4.1.2"
-    cross-spawn "^7.0.3"
-    gaze "^1.0.0"
-    get-stdin "^4.0.1"
-    glob "^7.0.3"
-    lodash "^4.17.15"
-    meow "^9.0.0"
-    nan "^2.13.2"
-    node-gyp "^8.4.1"
-    npmlog "^5.0.0"
-    request "^2.88.0"
-    sass-graph "4.0.0"
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
 
@@ -10045,9 +10045,9 @@ react-app-polyfill@^1.0.6:
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
 
-react-chartist@^0.14.3:
+react-chartist@0.14.3:
   version "0.14.3"
-  resolved "https://registry.npmjs.org/react-chartist/-/react-chartist-0.14.3.tgz"
+  resolved "https://registry.yarnpkg.com/react-chartist/-/react-chartist-0.14.3.tgz#e016a08ab5c94d3d1842c04a64755ceb660d3202"
   integrity sha512-FXIml3c98nClpzautiB4JI9+URc5j9cO5e/ZSEikB7r4bBOoX/6vdxvOlyfoOIm19H4uY6L7zNsIKOuWDGsdDg==
   dependencies:
     prop-types "^15.5.8"
@@ -10060,9 +10060,9 @@ react-chartjs-2@^2.7.2:
     lodash "^4.17.4"
     prop-types "^15.5.8"
 
-react-countdown-now@^2.1.2:
+react-countdown-now@2.1.2:
   version "2.1.2"
-  resolved "https://registry.npmjs.org/react-countdown-now/-/react-countdown-now-2.1.2.tgz"
+  resolved "https://registry.yarnpkg.com/react-countdown-now/-/react-countdown-now-2.1.2.tgz#b93d153fbb7a8d359beb32ecbf1de29d15f026c7"
   integrity sha512-BgRnsxV2vnvyJAefDBigTX+ngX6eGd2xl6DIFdZPIZkbx0mzxlMEeoEQG01JyeHDjqaXFUpIonIbx1yYyaMwzg==
   dependencies:
     lodash.isequal "^4.5.0"
@@ -10098,9 +10098,9 @@ react-dev-utils@^10.1.0:
     strip-ansi "6.0.0"
     text-table "0.2.0"
 
-react-dom@^16.10.2, react-dom@^16.12.0, react-dom@^16.4.1:
+react-dom@16.12.0, react-dom@^16.10.2, react-dom@^16.4.1:
   version "16.12.0"
-  resolved "https://registry.npmjs.org/react-dom/-/react-dom-16.12.0.tgz"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.12.0.tgz#0da4b714b8d13c2038c9396b54a92baea633fe11"
   integrity sha512-LMxFfAGrcS3kETtQaCkTKjMiifahaMySFDn71fZUNpPHZQEzmk/GiAeIT8JSOrHB23fnuCOMruL2a8NYlw+8Gw==
   dependencies:
     loose-envify "^1.1.0"
@@ -10135,9 +10135,9 @@ react-form-validator-core@0.6.4:
     promise-polyfill "8.1.0"
     react-lifecycles-compat "^3.0.2"
 
-react-image-magnifiers@^1.2.3:
+react-image-magnifiers@1.2.3:
   version "1.2.3"
-  resolved "https://registry.npmjs.org/react-image-magnifiers/-/react-image-magnifiers-1.2.3.tgz"
+  resolved "https://registry.yarnpkg.com/react-image-magnifiers/-/react-image-magnifiers-1.2.3.tgz#50ef2935493108f39bfc7de06b84648c43780e38"
   integrity sha512-i0XEjB1sjSt4PiHdbjTDwkZyop9cL5jcBmUh8HzzDk/RfsR6uuQdB44DGcFOw5ouPVTb37X/+Hmnp7LVK0MhZA==
   dependencies:
     prop-types "^15.7.2"
@@ -10160,14 +10160,14 @@ react-lifecycles-compat@^3.0.2, react-lifecycles-compat@^3.0.4:
   resolved "https://registry.npmjs.org/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-loading@^2.0.3:
+react-loading@2.0.3:
   version "2.0.3"
-  resolved "https://registry.npmjs.org/react-loading/-/react-loading-2.0.3.tgz"
+  resolved "https://registry.yarnpkg.com/react-loading/-/react-loading-2.0.3.tgz#e8138fb0c3e4674e481b320802ac7048ae14ffb9"
   integrity sha512-Vdqy79zq+bpeWJqC+xjltUjuGApyoItPgL0vgVfcJHhqwU7bAMKzysfGW/ADu6i0z0JiOCRJjo+IkFNkRNbA3A==
 
-react-material-ui-carousel@^1.1.1:
+react-material-ui-carousel@1.1.1:
   version "1.1.1"
-  resolved "https://registry.npmjs.org/react-material-ui-carousel/-/react-material-ui-carousel-1.1.1.tgz"
+  resolved "https://registry.yarnpkg.com/react-material-ui-carousel/-/react-material-ui-carousel-1.1.1.tgz#2e0d460808e8846737be401aab00b34d93333efa"
   integrity sha512-WaP5OiuP4qY0yhhSzwLEZjlvZ3TLIGt9AkEZ0UTydkwIeLmvIq/qnFc9BLTslxXTOTdu5u+mflXGLOlYf6XZHQ==
   dependencies:
     "@material-ui/core" "^4.5.1"
@@ -10178,17 +10178,17 @@ react-material-ui-carousel@^1.1.1:
     react-dom "^16.10.2"
     react-scripts "^3.3.0"
 
-react-material-ui-form-validator@^2.0.10:
+react-material-ui-form-validator@2.0.10:
   version "2.0.10"
-  resolved "https://registry.npmjs.org/react-material-ui-form-validator/-/react-material-ui-form-validator-2.0.10.tgz"
+  resolved "https://registry.yarnpkg.com/react-material-ui-form-validator/-/react-material-ui-form-validator-2.0.10.tgz#3ea4d2759f6c50e140bd346efc4a2e84b8e02683"
   integrity sha512-Qs32zB5gRUSAiwVAKOXUum4EN+zKycpk0o1FAP/zZsyO29pT2MBN44qaZsxOsPht27/nFZ/7+HcLDQ8YfTAzaQ==
   dependencies:
     prop-types "^15.0.0"
     react-form-validator-core "0.6.4"
 
-react-moment@^0.9.7:
+react-moment@0.9.7:
   version "0.9.7"
-  resolved "https://registry.npmjs.org/react-moment/-/react-moment-0.9.7.tgz"
+  resolved "https://registry.yarnpkg.com/react-moment/-/react-moment-0.9.7.tgz#ca570466595b1aa4f7619e62da18b3bb2de8b6f3"
   integrity sha512-ifzUrUGF6KRsUN2pRG5k56kO0mJBr8kRkWb0wNvtFIsBIxOuPxhUpL1YlXwpbQCbHq23hUu6A0VEk64HsFxk9g==
 
 react-popper@^1.3.6:
@@ -10204,9 +10204,9 @@ react-popper@^1.3.6:
     typed-styles "^0.0.7"
     warning "^4.0.2"
 
-react-redux@^7.2.0:
+react-redux@7.2.0:
   version "7.2.0"
-  resolved "https://registry.npmjs.org/react-redux/-/react-redux-7.2.0.tgz"
+  resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-7.2.0.tgz#f970f62192b3981642fec46fd0db18a074fe879d"
   integrity sha512-EvCAZYGfOLqwV7gh849xy9/pt55rJXPwmYvI4lilPM5rUT/1NxuuN59ipdBksRVSvz0KInbPnp4IfoXJXCqiDA==
   dependencies:
     "@babel/runtime" "^7.5.5"
@@ -10215,23 +10215,23 @@ react-redux@^7.2.0:
     prop-types "^15.7.2"
     react-is "^16.9.0"
 
-react-responsive-carousel@^3.1.51:
+react-responsive-carousel@3.1.51:
   version "3.1.51"
-  resolved "https://registry.npmjs.org/react-responsive-carousel/-/react-responsive-carousel-3.1.51.tgz"
+  resolved "https://registry.yarnpkg.com/react-responsive-carousel/-/react-responsive-carousel-3.1.51.tgz#f1913530b32e8fe7b484c77051571800b4ab535f"
   integrity sha512-hb74s8Cj9g3ppNxQeDwsIekTp2EOFO2MdmYXKIqjFS3oMHQE9Fg1lKn4j5tiIhAQAKQlNgy6hfqeS2aIO/Sicg==
   dependencies:
     classnames "^2.2.5"
     prop-types "^15.5.8"
     react-easy-swipe "^0.0.16"
 
-react-ripples@^2.2.1:
+react-ripples@2.2.1:
   version "2.2.1"
-  resolved "https://registry.npmjs.org/react-ripples/-/react-ripples-2.2.1.tgz"
+  resolved "https://registry.yarnpkg.com/react-ripples/-/react-ripples-2.2.1.tgz#bab529eb10e06f7e660561d97e2442a38b9f4687"
   integrity sha512-TfLjgZICQlsYCN2iX4fdeZNjoDzhJVC7r+R3irqyaNvCtWezouS9j+sE+nwSk747irtV8RKRDHmwMmsNBOw8Qg==
 
-react-router-dom@^5.1.2:
+react-router-dom@5.1.2:
   version "5.1.2"
-  resolved "https://registry.npmjs.org/react-router-dom/-/react-router-dom-5.1.2.tgz"
+  resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-5.1.2.tgz#06701b834352f44d37fbb6311f870f84c76b9c18"
   integrity sha512-7BPHAaIwWpZS074UKaw1FjVdZBSVWEk8IuDXdB+OkLb8vd/WRQIpA4ag9WQk61aEfQs47wHyjWUoUGGZxpQXew==
   dependencies:
     "@babel/runtime" "^7.1.2"
@@ -10318,6 +10318,16 @@ react-scripts@3.3.1, react-scripts@^3.3.0:
   optionalDependencies:
     fsevents "2.1.2"
 
+react-transition-group@4.3.0, react-transition-group@^4.0.0, react-transition-group@^4.3.0:
+  version "4.3.0"
+  resolved "https://registry.npmjs.org/react-transition-group/-/react-transition-group-4.3.0.tgz"
+  integrity sha512-1qRV1ZuVSdxPlPf4O8t7inxUGpdyO5zG9IoNfJxSO0ImU2A1YWkEQvFPuIPZmMLkg5hYs7vv5mMOyfgSkvAwvw==
+  dependencies:
+    "@babel/runtime" "^7.5.5"
+    dom-helpers "^5.0.1"
+    loose-envify "^1.4.0"
+    prop-types "^15.6.2"
+
 react-transition-group@^2.3.1:
   version "2.9.0"
   resolved "https://registry.npmjs.org/react-transition-group/-/react-transition-group-2.9.0.tgz"
@@ -10328,19 +10338,9 @@ react-transition-group@^2.3.1:
     prop-types "^15.6.2"
     react-lifecycles-compat "^3.0.4"
 
-react-transition-group@^4.0.0, react-transition-group@^4.3.0:
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/react-transition-group/-/react-transition-group-4.3.0.tgz"
-  integrity sha512-1qRV1ZuVSdxPlPf4O8t7inxUGpdyO5zG9IoNfJxSO0ImU2A1YWkEQvFPuIPZmMLkg5hYs7vv5mMOyfgSkvAwvw==
-  dependencies:
-    "@babel/runtime" "^7.5.5"
-    dom-helpers "^5.0.1"
-    loose-envify "^1.4.0"
-    prop-types "^15.6.2"
-
-react-ui-cards@^2.0.0:
+react-ui-cards@2.0.0:
   version "2.0.0"
-  resolved "https://registry.npmjs.org/react-ui-cards/-/react-ui-cards-2.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/react-ui-cards/-/react-ui-cards-2.0.0.tgz#420ebddf562bfaa7ec0b5a2734ccb8e2d79d9b84"
   integrity sha512-gfVPfPW09vbHbJJo7dw/GMEJ3zAF+0k0v4vxzDecuN+Q7yPwGD9/mpSGjIP97z+0mu0WqTH5pByRFz3LweOO3Q==
   dependencies:
     chart.js "^2.7.2"
@@ -10349,9 +10349,9 @@ react-ui-cards@^2.0.0:
     react-dom "^16.4.1"
     react-fontawesome "^1.6.1"
 
-react-uuid@^1.0.2:
+react-uuid@1.0.2:
   version "1.0.2"
-  resolved "https://registry.npmjs.org/react-uuid/-/react-uuid-1.0.2.tgz"
+  resolved "https://registry.yarnpkg.com/react-uuid/-/react-uuid-1.0.2.tgz#c77cea91cf38eafb1aaa7910f92621b2ed91b969"
   integrity sha512-5e0GM16uuQj9MdRJlZ0GdLC8LKMwpU9PIqYmF27s3fIV2z+rLyASTaiW4aKzSY4DyGanz+ImzsECkftwGWfAwA==
 
 react-virtualized@^9.21.0:
@@ -10366,18 +10366,18 @@ react-virtualized@^9.21.0:
     prop-types "^15.6.0"
     react-lifecycles-compat "^3.0.4"
 
-react@^16.10.2, react@^16.12.0, react@^16.4.1:
+react@16.12.0, react@^16.10.2, react@^16.4.1:
   version "16.12.0"
-  resolved "https://registry.npmjs.org/react/-/react-16.12.0.tgz"
+  resolved "https://registry.yarnpkg.com/react/-/react-16.12.0.tgz#0c0a9c6a142429e3614834d5a778e18aa78a0b83"
   integrity sha512-fglqy3k5E+81pA8s+7K0/T3DBCF0ZDOher1elBFzF7O6arXJgzyu/FW+COxFvAWXJoJN9KIZbT2LXlukwphYTA==
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     prop-types "^15.6.2"
 
-reactstrap@^8.4.1:
+reactstrap@8.4.1:
   version "8.4.1"
-  resolved "https://registry.npmjs.org/reactstrap/-/reactstrap-8.4.1.tgz"
+  resolved "https://registry.yarnpkg.com/reactstrap/-/reactstrap-8.4.1.tgz#c7f63b9057f58b52833061711ebe235b9ec4e3e5"
   integrity sha512-oAjp9PYYUGKl7SLXwrQ1oRIrYw0MqfO2mUqYgGapFKHG2uwjEtLip5rYxtMujkGx3COjH5FX1WtcfNU4oqpH0Q==
   dependencies:
     "@babel/runtime" "^7.2.0"
@@ -10537,14 +10537,14 @@ redent@^3.0.0:
     indent-string "^4.0.0"
     strip-indent "^3.0.0"
 
-redux-thunk@^2.3.0:
+redux-thunk@2.3.0:
   version "2.3.0"
-  resolved "https://registry.npmjs.org/redux-thunk/-/redux-thunk-2.3.0.tgz"
+  resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.3.0.tgz#51c2c19a185ed5187aaa9a2d08b666d0d6467622"
   integrity sha512-km6dclyFnmcvxhAcrQV2AkZmPQjzPDjgVlQtR0EQjxZPyJ0BnMf3in1ryuR8A2qU0HldVRfxYXbFSKlI3N7Slw==
 
-redux@^4.0.5:
+redux@4.0.5:
   version "4.0.5"
-  resolved "https://registry.npmjs.org/redux/-/redux-4.0.5.tgz"
+  resolved "https://registry.yarnpkg.com/redux/-/redux-4.0.5.tgz#4db5de5816e17891de8a80c424232d06f051d93f"
   integrity sha512-VSz1uMAH24DM6MF72vcojpYPtrTUu3ByVWfPL1nPfVRb5mZVTve5GnNCUV53QM/BZ66xfWrm0CTWoM+Xlz8V1w==
   dependencies:
     loose-envify "^1.4.0"
@@ -10899,9 +10899,9 @@ rsuite-utils@^2.2.1:
     lodash "^4.17.5"
     react-lifecycles-compat "^3.0.4"
 
-rsuite@^4.3.1:
+rsuite@4.3.2:
   version "4.3.2"
-  resolved "https://registry.npmjs.org/rsuite/-/rsuite-4.3.2.tgz"
+  resolved "https://registry.yarnpkg.com/rsuite/-/rsuite-4.3.2.tgz#b676a47aca91042dc6a8d73bfa7fc69be3cc518d"
   integrity sha512-+uRhDTVpL0vKvvJelmU+8jKxRk+tz/rpxb/aoEYNrc8HK88UxWPz65zWZiYUS8ssj/tLcH73TTOgAHaPwydCuQ==
   dependencies:
     "@babel/runtime" "^7.8.4"
@@ -12204,9 +12204,9 @@ typedarray@^0.0.6:
   resolved "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^3.7.5:
+typescript@3.7.5:
   version "3.7.5"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-3.7.5.tgz"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.5.tgz#0692e21f65fd4108b9330238aac11dd2e177a1ae"
   integrity sha512-/P5lkRXkWHNAbcJIiHPfRoKqyd7bsyCma1hZNUGfn20qm64T6ZBlrzprymeu918H+mB/0rIg2gGK/BXkhhYgBw==
 
 ua-parser-js@^0.7.18:
