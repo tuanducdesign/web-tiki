@@ -914,10 +914,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@brainhubeu/react-carousel@^1.11.2-bar-3":
-  version "1.11.2-bar-3"
-  resolved "https://registry.npmjs.org/@brainhubeu/react-carousel/-/react-carousel-1.11.2-bar-3.tgz"
-  integrity sha512-gqEsEr18dLfP4EXRXqAogYuK18yVDn6l2al03p/c/1Dw8ukPuXcHV+wtsYh/JGRjzRuw5/SCgsd9neyCmXX8WQ==
+"@brainhubeu/react-carousel@1.19.26":
+  version "1.19.26"
+  resolved "https://registry.yarnpkg.com/@brainhubeu/react-carousel/-/react-carousel-1.19.26.tgz#57de7b934596ede7a42ab07c46e5942574180447"
+  integrity sha512-+YO8cJrJEk+QDZTQM+i7ct5Ouy0LyoVHQD4fomdsV+3AQmWUkMVZNBYmxFMvhRQVFKreTTzyKuGPkhDKilL/CQ==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
