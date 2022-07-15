@@ -20,7 +20,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "chartist": "^0.11.4",
-    "classnames": "^2.2.6",
+    "classnames": "2.3.1",
     "date-fns": "^2.9.0",
     "fg-loadcss": "^2.1.0",
     "jwt-decode": "^2.2.0",
