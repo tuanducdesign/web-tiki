@@ -39,7 +39,7 @@
     "react-redux": "^7.2.0",
     "react-responsive-carousel": "^3.1.51",
     "react-ripples": "^2.2.1",
-    "react-router-dom": "^5.1.2",
+    "react-router-dom": "5.3.3",
     "react-scripts": "3.3.1",
     "react-transition-group": "^4.3.0",
     "react-ui-cards": "^2.0.0",
