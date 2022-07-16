@@ -1,4 +1,4 @@
-FROM node:12.16-alpine as build-stage
+FROM node:12.22-alpine as build-stage
 WORKDIR /app
 COPY . . 
 RUN npm install 
