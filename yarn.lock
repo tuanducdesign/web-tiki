@@ -10135,10 +10135,10 @@ react-form-validator-core@0.6.4:
     promise-polyfill "8.1.0"
     react-lifecycles-compat "^3.0.2"
 
-react-image-magnifiers@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.npmjs.org/react-image-magnifiers/-/react-image-magnifiers-1.2.3.tgz"
-  integrity sha512-i0XEjB1sjSt4PiHdbjTDwkZyop9cL5jcBmUh8HzzDk/RfsR6uuQdB44DGcFOw5ouPVTb37X/+Hmnp7LVK0MhZA==
+react-image-magnifiers@1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/react-image-magnifiers/-/react-image-magnifiers-1.4.0.tgz#0472e93491d5a199a278d4efc855f03542214601"
+  integrity sha512-ZszHusdsYteccKGysHXUOgLRGtHqfRYuG1koHh3VAvuhrzF4BEs1Ot5tSe1WA2v+EsjAEfYcrRyi/Is4QDD61A==
   dependencies:
     prop-types "^15.7.2"
     react-input-position "^1.3.1"
